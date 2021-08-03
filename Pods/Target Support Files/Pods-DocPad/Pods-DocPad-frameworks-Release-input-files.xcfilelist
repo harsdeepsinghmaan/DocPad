@@ -1,0 +1,16 @@
+${PODS_ROOT}/Target Support Files/Pods-DocPad/Pods-DocPad-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${PODS_ROOT}/JitsiMeetSDK/Frameworks/JitsiMeet.framework
+${PODS_ROOT}/JitsiMeetSDK/Frameworks/WebRTC.framework
+${BUILT_PRODUCTS_DIR}/KDCalendar/KDCalendar.framework
+${BUILT_PRODUCTS_DIR}/LGSideMenuController/LGSideMenuController.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/NKVPhonePicker/NKVPhonePicker.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SwiftPhoneNumberFormatter/SwiftPhoneNumberFormatter.framework
+${BUILT_PRODUCTS_DIR}/UHNBGMController/UHNBGMController.framework
+${BUILT_PRODUCTS_DIR}/UHNBLEController/UHNBLEController.framework

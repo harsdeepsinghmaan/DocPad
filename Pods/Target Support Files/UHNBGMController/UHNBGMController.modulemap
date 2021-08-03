@@ -1,0 +1,6 @@
+framework module UHNBGMController {
+  umbrella header "UHNBGMController-umbrella.h"
+
+  export *
+  module * { export * }
+}

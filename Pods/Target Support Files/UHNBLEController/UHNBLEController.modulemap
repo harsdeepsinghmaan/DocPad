@@ -1,0 +1,6 @@
+framework module UHNBLEController {
+  umbrella header "UHNBLEController-umbrella.h"
+
+  export *
+  module * { export * }
+}
